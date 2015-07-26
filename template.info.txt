@@ -1,0 +1,7 @@
+base     plaintext
+author   Huksley
+email    huksley@sdot.ru
+date     2015-05-27
+name     Plaintext Template
+desc     Renders page in plaintext. Based on starter template. Can use text renderer if installed. You can use loadskin plugin to load with template for specific namespace.
+url      https://www.dokuwiki.org/template:plaintext
