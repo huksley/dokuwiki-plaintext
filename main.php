@@ -27,6 +27,6 @@ if (!@$_REQUEST["do"]) {
 	if (!headers_sent()) header("Content-Type: $contentType");
 	echo $str;
 } else {
-	tpl_content(false);
+	include(__DIR__ . "/editor.php");
 }
 ?>
